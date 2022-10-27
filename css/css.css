@@ -10,7 +10,7 @@
     width: 101vw;
     position: absolute;
     padding-left: 0px;
-    background-image: url(img/x.gif);
+    background-image: url(../img/x.gif);
     background-repeat: repeat;
 
 }
@@ -21,7 +21,7 @@
     margin-top: 8vw;
     margin-left: 15.85vw;
     position: absolute;
-    background-image: url(img/y.gif);
+    background-image: url(../img/y.gif);
     background-repeat: repeat;
 }
 
